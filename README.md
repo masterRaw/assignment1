@@ -14,7 +14,7 @@ This is an individual project repository for the course CSCI 5709 - Advanced Top
 * *Abhinav Branch URL*: <https://git.cs.dal.ca/ygulati/group3_csci5709/-/tree/feature_abhinav>
 
 ## Deployment URLs
-* *Heroku Link*: <https://assignment1-abhi.herokuapp.com/>
+* *Heroku Link*: <https://assignment1-abhi.herokuapp.com/login>
 
 ## Authors
 * [Abhinav Rawat (B00895691)](mailto:abhi@dal.ca) - *(Maintainer)*
