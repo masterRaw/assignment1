@@ -1,0 +1,17 @@
+.navbar{
+    display:"flex";
+    justify-content: center;
+    background-color: black;
+}
+
+.navbar a{
+    text-decoration: none;
+    color: white;
+    font-weight:bold;
+    margin:5px 20px;
+}
+
+.navbar a:hover{
+    text-decoration: none;
+    color: goldenrod;
+}
